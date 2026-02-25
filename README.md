@@ -14,3 +14,6 @@ Este projeto foi desenvolvido no âmbito do mestrado em **Humanidades Digitais**
 
 ## 📊 Exemplo de Aplicação
 O script recebe um corpo de texto e devolve a distribuição de vocabulário, permitindo comparar a riqueza lexical de diferentes autores ou géneros textuais.
+
+## Próximos passos:
+Implementação de filtros para Stopwords em Português Europeu para uma análise semântica mais profunda.
